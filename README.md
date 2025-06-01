@@ -1,4 +1,4 @@
-# film-robot
+# Film_Robot
 
 Contacted by film group of the American Film Institute and asked for services in building a robotic “actor” similar to Wall-E with programmable eyes, pan-tilt head, and joystick control.
 
